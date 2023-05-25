@@ -39,3 +39,5 @@ def display_quotes(quotes, count):
         for i in range(int(count)):
             print_quote(quotes[i])
             
+
+            
