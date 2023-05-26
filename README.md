@@ -9,6 +9,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: LAATAR Clément Groupe F
 
 ## Fork urls
-- `contributor-1`: [quotes-ada-f](url-1)
-- `contributor-2`: [quotes-tamo-f](url-2)
-- `contributor-3`: [quotes-clement-f](url-3)
+- `contributor-1`: [quotes-ada-f](https://github.com/Aaron919191/quotes-ada-f)
+- `contributor-2`: [quotes-tamo-f](https://github.com/Tams0/quotes-tamo-f)
+- `contributor-3`: [quotes-clement-f]([url-3](https://github.com/Rowuni-2/quotes-clement-f))
